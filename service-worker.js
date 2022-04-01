@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fa18a7293d6a4bc5308562707d31b66d.js"
+  "/precache-manifest.5a31516f0e69702a5fa65f641a4f7fbb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "madaniymerosv2"});
